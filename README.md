@@ -8,6 +8,9 @@
 
 This repository hosts a collection of classic games implemented in Python, developed as a part of an assignment for IT Högskolan. The purpose of the project is to create an interactive and user-friendly console application where users can choose to play various games including **Hangman**, **Rock, Paper, Scissors**, **Memory**, and **Blackjack**. Each game is implemented in a modular fashion, enabling easy readability and future enhancements.
 
+## Credits for Resources
+
+The word list (`wordlist.csv`) utilized in the Hangman game is sourced from [MIT](http://www.mit.edu/). All credit for the word list goes to them. 
 
 ## Table of Contents
 
